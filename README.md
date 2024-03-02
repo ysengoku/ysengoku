@@ -1,7 +1,8 @@
 <!--**ysengoku/ysengoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <div align="center">
-<h2> Hi, I'm Yuko 👋 </h2>
-🌱 I’m currently learning C & C++ at 42 school in Lyon🇫🇷  
+𝘏𝘪, 𝘐'𝘮 𝘠𝘶𝘬𝘰 👋🏻  
+<br/> 　
+🌱 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘊 & 𝘊++ 𝘢𝘵 42 𝘴𝘤𝘩𝘰𝘰𝘭 𝘪𝘯 𝘓𝘺𝘰𝘯𝘍𝘙
 <br/>  
 <br/>   
 <!--
