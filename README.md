@@ -3,8 +3,7 @@
 <h2> Hi, I'm Yuko 👋 </h2>
 🌱 I’m currently learning C & C++ at 42 school in Lyon🇫🇷  
 <br/>  
-<br/>  
-<br/>  
+<br/>   
 <!--
 ![ysengoku's Github](https://typograssy.deno.dev/api?text=Hey%20there,%20I'm%20Yuko%20!&l1=ea9fcb&l2=c440a8&l3=a13092&l4=822771&speed=250)
 -->
@@ -48,5 +47,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-----
+<br/>  
+<br/>  
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
