@@ -25,9 +25,17 @@
 
 ## My Skills  
 
+### Programming Languages  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,swift,html,css,bash,vscode,vim,codepen,figma,ps,ai,github,wordpress" />
+    <img src="https://skillicons.dev/icons?i=c,swift,html,css" />
+  </a>
+</p>
+
+### Design & tools  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,wordpress,bash,vscode,vim,codepen,github" />
   </a>
 </p>
 
