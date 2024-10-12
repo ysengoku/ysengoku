@@ -4,8 +4,8 @@
 🌱 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘊 & 𝘊++ 𝘢𝘵 42 𝘴𝘤𝘩𝘰𝘰𝘭 𝘪𝘯 𝘓𝘺𝘰𝘯🇫🇷
 <br/>  
 <br/>    
-<!--<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/yusengok?1337Badge=off&UM6P=off" alt="yusengok's 42 stats" /></a>
-<br/>-->
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/yusengok?1337Badge=off&UM6P=off" alt="yusengok's 42 stats" /></a>
+<br/>
 <!--
 ![ysengoku's Github](https://typograssy.deno.dev/api?text=Hey%20there,%20I'm%20Yuko%20!&l1=ea9fcb&l2=c440a8&l3=a13092&l4=822771&speed=250)
 -->
