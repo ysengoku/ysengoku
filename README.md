@@ -1,7 +1,7 @@
 <!--**ysengoku/ysengoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <div align="center">
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=28&duration=5500&pause=100&color=EB1F6A&center=true&vCenter=true&width=435&lines=Hello+World!+++I'm+Yuko+%F0%9F%87%AF%F0%9F%87%B5;I'm+currently+learning+to+code+at+42+Lyon+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=28&duration=5500&pause=100&color=EB1F6A&center=true&vCenter=true&width=435&lines=Hello+World!+++I'm+Yuko.;I'm+currently+learning+to+code+at+42+Lyon." alt="Typing SVG" /></a>
 <br/>  
 <br/>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/yusengok?1337Badge=off&UM6P=off" alt="yusengok's 42 stats" /></a>
