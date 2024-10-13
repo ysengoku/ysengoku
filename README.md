@@ -1,10 +1,11 @@
 <!--**ysengoku/ysengoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <div align="center">
-<h2>𝘏𝘪, 𝘐'𝘮 𝘠𝘶𝘬𝘰 👋🏻</h2> 
-🌱 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘊 & 𝘊++ 𝘢𝘵 42 𝘴𝘤𝘩𝘰𝘰𝘭 𝘪𝘯 𝘓𝘺𝘰𝘯🇫🇷
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=28&duration=5500&pause=100&color=EB1F6A&center=true&vCenter=true&width=435&lines=Hello+World!+++I'm+Yuko+%F0%9F%87%AF%F0%9F%87%B5;I'm+currently+learning+to+code+at+42+Lyon+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" /></a>
 <br/>  
-<br/>    
+<br/>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/yusengok?1337Badge=off&UM6P=off" alt="yusengok's 42 stats" /></a>
+<br/>
 <br/>
 <!--
 ![ysengoku's Github](https://typograssy.deno.dev/api?text=Hey%20there,%20I'm%20Yuko%20!&l1=ea9fcb&l2=c440a8&l3=a13092&l4=822771&speed=250)
