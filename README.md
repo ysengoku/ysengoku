@@ -3,7 +3,7 @@
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=5500&pause=100&color=EB1F6A&center=true&vCenter=true&width=520&height=80&lines=Hello+World!+++I'm+Yuko.;I'm+currently+learning+to+code+at+42+Lyon." alt="Typing SVG" /></a>
 <br/>  
-<br/>
+
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/yusengok?1337Badge=off&UM6P=off" alt="yusengok's 42 stats" /></a>
 <br/>
 <br/>
@@ -16,8 +16,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysengoku&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysengoku&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysengoku&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysengoku&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysengoku&theme=monokai&utcOffset=8)
+<!--! [](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysengoku&theme=monokai) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysengoku&theme=monokai&utcOffset=8) -->
 <!-- https://github-profile-summary-cards.vercel.app/demo.html --> 
 
 <br/> 
