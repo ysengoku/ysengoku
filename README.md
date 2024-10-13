@@ -29,7 +29,7 @@ Swift
 HTML
 CSS
 
-$ env | personal_info
+$ env | career_path
 PWD=/IT
 OLDPWD=/tourism_industry
 LANG=ja_JP:en_US:fr_FR
