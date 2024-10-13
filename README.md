@@ -16,19 +16,23 @@
 $ whoami
 Yuko SENGOKU
 
-$ pwd
+$ echo $HOME
 /france/lyon
 
-$ env | skills
-PROGRAMMING_LANGUAGES=C:C++:Swift
-FRAMEWORKS=SwiftUI
-TOOLS=VSCode:Vim:Git:Docker
-SHELL=/bin/bash
+$ cd / && pwd
+/japan
+
+$ echo $LANGUAGES
+C
+C++
+Swift
+HTML
+CSS
 
 $ env | personal_info
-PWD=/france/lyon
-OLDPWD=/japan/nagoya
-LANG=ja_JP.UTF-8:en_US.UTF-8:fr_FR.UTF-8
+PWD=/IT
+OLDPWD=/tourism_industry
+LANG=ja_JP:en_US:fr_FR
 ```
 <br/>
 
