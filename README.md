@@ -33,6 +33,9 @@ $ env | personal_info
 PWD=/IT
 OLDPWD=/tourism_industry
 LANG=ja_JP:en_US:fr_FR
+
+$ cat ~/inspiration.txt
+"Talk is cheap. Show me the code."
 ```
 <br/>
 
