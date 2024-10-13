@@ -10,7 +10,28 @@
 <!--
 ![ysengoku's Github](https://typograssy.deno.dev/api?text=Hey%20there,%20I'm%20Yuko%20!&l1=ea9fcb&l2=c440a8&l3=a13092&l4=822771&speed=250)
 -->
+</div>
 
+```bash
+$ whoami
+Yuko SENGOKU
+
+$ pwd
+/france/lyon
+
+$ env | skills
+PROGRAMMING_LANGUAGES=C:C++:Swift
+FRAMEWORKS=SwiftUI
+TOOLS=VSCode:Vim:Git:Docker
+SHELL=/bin/bash
+
+$ env | personal_info
+PWD=/france/lyon
+OLDPWD=/japan/nagoya
+LANG=ja_JP.UTF-8:en_US.UTF-8:fr_FR.UTF-8
+```
+
+<div align="center">
 ## Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysengoku&theme=monokai)
