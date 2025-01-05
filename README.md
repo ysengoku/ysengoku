@@ -4,9 +4,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=5500&pause=100&color=EB1F6A&center=true&vCenter=true&width=520&height=80&lines=Hello+World!+++I'm+Yuko.;I'm+currently+learning+to+code+at+42+Lyon." alt="Typing SVG" /></a>
 <br/>  
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/yusengok?1337Badge=off&UM6P=off" alt="yusengok's 42 stats" /></a>
-<br/>
-<br/>
+[![Portfolio](https://img.shields.io/badge/Explore_now-✨My_Portfolio✨-ae3855?style=for-the-badge&labelColor=ae3855)](https://ysengoku.github.io/)
+
+
 <!--
 ![ysengoku's Github](https://typograssy.deno.dev/api?text=Hey%20there,%20I'm%20Yuko%20!&l1=ea9fcb&l2=c440a8&l3=a13092&l4=822771&speed=250)
 -->
@@ -40,12 +40,16 @@ $ cat ~/inspiration.txt
 <br/>
 
 <div align="center">
+  
+<!--<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/yusengok?1337Badge=off&UM6P=off" alt="yusengok's 42 stats" /></a>
+<br/>
+<br/>-->
 
 ## Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysengoku&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysengoku&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysengoku&theme=monokai)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysengoku&theme=monokai) -->
 <!--! [](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysengoku&theme=monokai) -->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysengoku&theme=monokai&utcOffset=8) -->
 <!-- https://github-profile-summary-cards.vercel.app/demo.html --> 
@@ -61,7 +65,7 @@ $ cat ~/inspiration.txt
 ### Programming Languages  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,swift,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,swift,html,css,bootstrap,docker,nginx" />
   </a>
 </p>
 
