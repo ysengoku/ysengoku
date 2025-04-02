@@ -1,7 +1,7 @@
 <!--**ysengoku/ysengoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <div align="center">
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=5500&pause=100&color=EB1F6A&center=true&vCenter=true&width=520&height=80&lines=Hello+World!+++I'm+Yuko.;I'm+currently+learning+to+code+at+42+Lyon." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=5500&pause=100&color=EB1F6A&center=true&vCenter=true&width=520&height=80&lines=Hello!+++I'm+Yuko.;I'm+currently+learning+to+code+at+42+Lyon." alt="Typing SVG" /></a>
 <br/>  
 
 [![Portfolio](https://img.shields.io/badge/Explore_now-✨My_Portfolio✨-ae3855?style=for-the-badge&labelColor=ae3855)](https://ysengoku.github.io/)
@@ -25,6 +25,7 @@ $ cd / && pwd
 $ echo $LANGUAGES
 C
 C++
+JavaScript
 Swift
 HTML
 CSS
