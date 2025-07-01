@@ -63,17 +63,17 @@ $ cat ~/inspiration.txt
 
 ## My Skills  
 
-### Programming Languages  
+### Programming  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,swift,html,css,bootstrap,docker,nginx" />
+    <img src="https://skillicons.dev/icons?i=javascript,c,cpp,swift,html,css,bootstrap,docker,nginx" />
   </a>
 </p>
 
 ### Design & tools  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,wordpress,bash,vscode,vim,codepen,github" />
+    <img src="https://skillicons.dev/icons?i=ps,figma,wordpress,bash,vscode,codepen,github" />
   </a>
 </p>
 
