@@ -23,12 +23,10 @@ $ cd / && pwd
 /japan
 
 $ echo $LANGUAGES
+JavaScript
 C
 C++
-JavaScript
 Swift
-HTML
-CSS
 
 $ env | career_path
 PWD=/IT
