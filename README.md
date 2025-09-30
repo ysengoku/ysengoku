@@ -48,9 +48,8 @@ $ cat ~/inspiration.txt
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysengoku&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysengoku&theme=monokai)
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysengoku&theme=monokai) -->
-<!--! [](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysengoku&theme=monokai) -->
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysengoku&theme=monokai&utcOffset=8) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysengoku&theme=monokai)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysengoku&theme=monokai)-->
 <!-- https://github-profile-summary-cards.vercel.app/demo.html --> 
 
 <br/> 
