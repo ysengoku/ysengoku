@@ -23,9 +23,8 @@ $ cd / && pwd
 /japan
 
 $ echo $LANGUAGES
-JavaScript
-C
-C++
+JavaScript/Typescript
+C/C++
 Swift
 
 $ env | career_path
