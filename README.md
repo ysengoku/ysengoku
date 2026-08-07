@@ -25,6 +25,7 @@ $ cd / && pwd
 $ echo $LANGUAGES
 JavaScript/Typescript
 C/C++
+PHP
 Swift
 
 $ env | career_path
