@@ -22,11 +22,13 @@ $ echo $HOME
 $ cd / && pwd
 /japan
 
-$ echo $LANGUAGES
-JavaScript/Typescript
-C/C++
-PHP
+$ echo $TECH_STACK
+JavaScript/TypeScript Node.js Vue.js
+PHP Symfony
+C/C++ 
 Swift
+PostgreSQL MySQL
+Docker Ansible Terraform
 
 $ env | career_path
 PWD=/IT
